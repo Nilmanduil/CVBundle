@@ -1,0 +1,4 @@
+services:
+#    nilmanduil_cv.example:
+#        class: Nilmanduil\CVBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]

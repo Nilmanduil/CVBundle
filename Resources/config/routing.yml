@@ -1,0 +1,3 @@
+nilmanduil_cv_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: NilmanduilCVBundle:Default:index }
